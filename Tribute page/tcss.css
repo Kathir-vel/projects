@@ -1,0 +1,12 @@
+
+#gandhi_image{
+
+  border: 1px solid #ddd;
+  border-radius: 500px;
+  padding: 5px;
+  width: 500px;
+}
+
+figcaption{
+  margin-bottom : 25px;
+}
